@@ -1,0 +1,83 @@
+body{
+    margin-left:500px;
+    padding: 0%;
+    background-color: rgb(89, 110, 95);
+}
+#header{
+    margin:10px;
+    padding: 0%;
+    height: 100px;
+    background-color: rgb(179, 179, 32);
+    size: 50%;
+    margin-bottom: 0%;
+    width: 50%;
+
+}
+.wrapper{
+    width: 0%;
+}
+
+    
+.body1{
+    background-color: rgb(69, 206, 53);
+    margin: 10px;
+    margin-top: 0%;
+    margin-bottom: 20px;
+    height: 220px;
+    width: 50%;
+    margin-left: 10;
+
+
+
+}
+
+    .form{
+        width: 50%;
+        background-color: lawngreen;
+        float: left;
+        height: 200px;
+        margin-left: 10px;
+        
+    }
+    .first_name{
+        margin: 20px;
+        margin-left: 50px;
+    }
+    .last_name{
+        margin: 0px;
+        margin-left: 50px;
+    }
+    div .male{
+        padding-left: 50px;
+    }
+    div label.nationality{
+        padding-left: 50px;
+    }
+    .register{
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    
+
+#header h1{
+    text-align: center;
+    padding-top: 30px;
+    
+    
+    
+    
+}
+div.left{
+     float: right;
+    background: url('../image/register.jpg');
+    height: 160px;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 5px;
+    width:45% ;
+    padding-top: 0px;
+    clear: both;;
+
+    
+}
